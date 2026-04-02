@@ -3,7 +3,7 @@
 In this unit the student must learn: 
 * Typical control loops for controlling active and reactive power.<br>
 * Classification of grid forming, grid feeding, grid supporting converters.<br>
-
+The Lecture 05 can be found [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/5_Grid_Connected_Converters.pdf)
 Read the material in the following order:
 * P, Q Control loops [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/2006%20Overview%20of%20Control%20and%20Grid%20Synchronization%20for%20Distributed%20Power%20Generation%20Systems.pdf)<br>
 * Grid Connected converters classification and control  [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/2012_Control_of_Power_Converters_in_AC_Microgrids.pdf)<br>
