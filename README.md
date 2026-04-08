@@ -16,6 +16,7 @@ Summary:<br>
         *  Keep current balanced and power will have oscillations.
         *  Kepp P, or Q constant and current will be unbalanced.
         *  The previous is achieved using sequence separation (positive, negative).
+     
  Important Sections:<br>
      * I, II, II (general knowledge)
      * IVa, IVb Control Structure.
