@@ -15,14 +15,13 @@ Summary:<br>
     * Control under unbalanced networks (or faults), i.e. voltage unbalanced:
         *  Keep current balanced and power will have oscillations.
         *  Kepp P, or Q constant and current will be unbalanced.
-        *  The previous is achieved using sequence separation (positive, negative).
-     
+        *  The previous is achieved using sequence separation (positive, negative).<br>
  Important Sections:<br>
      * I, II, II (general knowledge)
      * IVa, IVb Control Structure.
      * IVc never used in real life, not that important. But good to know.
      * Va (used only when low number of harmonics are copensated). Vb (used when low or high numbers of harmonics are compensated)
-     * VIb,c,d.
+     * VIb,c,d. Use of sequence separation for controlling P, Q under unbalanced networks.
       
 * Grid Connected converters classification and control  [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/2012_Control_of_Power_Converters_in_AC_Microgrids.pdf)<br>
     * Classification of converters connected as voltage source with low impedance series or current source with high impedance parallel.
