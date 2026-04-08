@@ -8,13 +8,21 @@ Lecture 05 can be found [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Con
 
 In addition read the following material in this order:
 * Fundamentals P, Q Control loops [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/2006%20Overview%20of%20Control%20and%20Grid%20Synchronization%20for%20Distributed%20Power%20Generation%20Systems.pdf)<br>
+Summary:<br>
     * Control of P,Q in Synchronous Rotating (dq) and Stationary frames (alfa-beta).
     * Understanding the decoupling terms in dq frame.
     * Control structure for harmonics compensation.
     * Control under unbalanced networks (or faults), i.e. voltage unbalanced:
         *  Keep current balanced and power will have oscillations.
         *  Kepp P, or Q constant and current will be unbalanced.
-        *  The previous is achieved using sequence separation (positive, negative). 
+        *  The previous is achieved using sequence separation (positive, negative).
+ Important Sections:<br>
+     * I, II, II (general knowledge)
+     * IVa, IVb Control Structure.
+     * IVc never used in real life, not that important. But good to know.
+     * Va (used only when low number of harmonics are copensated). Vb (used when low or high numbers of harmonics are compensated)
+     * VIb,c,d.
+      
 * Grid Connected converters classification and control  [here](https://github.com/IEE3311-EDP-ERRI/LECTURE05-Control-of-Grid-Connected-Converters/blob/main/2012_Control_of_Power_Converters_in_AC_Microgrids.pdf)<br>
     * Classification of converters connected as voltage source with low impedance series or current source with high impedance parallel.
     * Definition of grid Forming, grid feeding  and grid supporting converters.
